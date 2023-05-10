@@ -1,7 +1,7 @@
-<img align="center" src="banner.png" alt="no"/>
+<img align="center" src="https://www.vhv.rs/dpng/d/28-284639_banner-background-design-png-transparent-png.png" alt="no"/>
 <h3 align="center">Hi 👋, I'm Anish Jain</h3>
 <h4 align="center">A passionate frontend developer from India</h4>
-<img align="center" src="https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983" alt="no"/>
+<img align="center" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="no"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishjain34&label=Profile%20views&color=0e75b6&style=flat" alt="anishjain34" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
