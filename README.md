@@ -1,4 +1,4 @@
-![Header](.\Code\webtechapp\Projects\github-header-image.png )
+![Header](github-header-image.png )
 <h3 align="center">Hi 👋, I'm Anish Jain</h3>
 <h4 align="center">A passionate frontend developer from India</h4>
 <img align="right" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="no"/>
