@@ -1,4 +1,4 @@
-<img align="center" src="https://www.vhv.rs/dpng/d/28-284639_banner-background-design-png-transparent-png.png" alt="no"/>
+[![Header](D:\Code\webtechapp\Projects\github-header-image.png "Header")](#)
 <h3 align="center">Hi 👋, I'm Anish Jain</h3>
 <h4 align="center">A passionate frontend developer from India</h4>
 <img align="center" src="https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif" alt="no"/>
