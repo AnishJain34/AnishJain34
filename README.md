@@ -1,7 +1,7 @@
-[![Header](./github-header-image.png "Header")]
+![Header](.\Code\webtechapp\Projects\github-header-image.png )
 <h3 align="center">Hi 👋, I'm Anish Jain</h3>
 <h4 align="center">A passionate frontend developer from India</h4>
-<img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="no"/>
+<img align="right" width="300" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" alt="no"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishjain34&label=Profile%20views&color=0e75b6&style=flat" alt="anishjain34" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
