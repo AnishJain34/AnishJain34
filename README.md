@@ -1,4 +1,4 @@
-<img src="https://vhv.rs/viewpic/hhwmxi_banner-background-design-png-transparent-png/" allt="no">
+<img src="vhv.rs/viewpic/hhwmxi_banner-background-design-png-transparent-png/" alt="no">
 <h1 align="center">Hi 👋, I'm Anish Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983" alt="no">
